@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.service.aidl.aidlservice">
-    <service
-        android:name="net.sxkeji.shixinandroiddemo2.service.MyAidlService"
-        android:enabled="true"
-        android:exported="true"
-        android:process=":aidl"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -20,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service
+            android:name=".MyAidlService"
+            android:exported="true"
+            android:process=":remote">
+            <intent-filter>
+                <action android:name="com.service.aidl.aidlservice.IMyAidlInterface"/>
+            </intent-filter>
+        </service>
     </application>
 
 </manifest>
