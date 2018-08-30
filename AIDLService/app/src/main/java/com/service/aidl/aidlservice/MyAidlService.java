@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.IBinder;
 import android.os.RemoteException;
 import android.support.annotation.Nullable;
+import android.util.Log;
 
 import com.service.aidl.aidlservice.IMyAidlInterface;
 import com.service.aidl.aidlservice.Person;
@@ -30,11 +31,15 @@ public class MyAidlService extends Service {
 
         @Override
         public void addPerson(Person person) throws RemoteException {
+            Log.d("service","addPerson: pid:" +android.os.Process.myPid()+"tid:"+android.os.Process.myTid()
+            +"uid:"+android.os.Process.myUid());
             mPersons.add(person);
         }
 
         @Override
         public List<Person> getPersonList() throws RemoteException {
+            Log.d("service","getPersonList: pid:" +android.os.Process.myPid()+"tid:"+android.os.Process.myTid()
+                    +"uid:"+android.os.Process.myUid());
             return mPersons;
         }
     };

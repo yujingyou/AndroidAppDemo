@@ -1,4 +1,4 @@
-package com.client.aidl.aidlclient;
+package com.aidlclientsecond.aidl.aidlclientsecond;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -12,15 +12,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.service.aidl.aidlservice.MyAidlService;
 import com.service.aidl.aidlservice.IMyAidlInterface;
 import com.service.aidl.aidlservice.Person;
 
-import java.text.BreakIterator;
 import java.util.List;
 import java.util.Random;
+
 
 public class MainActivity extends AppCompatActivity {
     private IMyAidlInterface mAidl;
@@ -58,24 +56,11 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.d("time","for begin");
-                for (int j = 0; j < 1000; j++) {
-
-
-                }
-                Log.d("time","for end");
-                Log.d("time","for begin");   //20:17:15.410
-                for (int j = 0; j < 1000; j++) {
-                    addPerson();
-                }
-
-               // 20:17:28.310
-                Log.d("time","for end");
-
+                addPerson();
 
             }
         });
-        }
+    }
 
     public void addPerson() {
         Random random = new Random();
