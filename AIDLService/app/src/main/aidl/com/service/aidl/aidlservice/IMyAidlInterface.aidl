@@ -12,5 +12,5 @@ interface IMyAidlInterface {
             double aDouble, String aString);
     void addPerson(in Person person);
 
-    List<Person> getPersonList();
+    Person getPersonList();
 }
