@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\app_selector.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\btn_check.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jiantou_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\jiantou_selector.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    }
+]

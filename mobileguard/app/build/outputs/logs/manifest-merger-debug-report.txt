@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:2:1-179:12
+	package
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml
+instrumentation
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:12:5-15:23
+	android:targetPackage
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:14:9-56
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:13:9-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:24:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:29:22-70
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:30:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:31:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:32:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:34:5-78
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:34:22-75
+uses-permission#android.permission.READ_SMS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:35:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:37:5-88
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:37:22-85
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:38:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:39:5-68
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:39:22-65
+application
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:40:5-177:19
+	android:label
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:43:9-41
+	android:allowBackup
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:41:9-35
+	android:icon
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:42:9-45
+	android:theme
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:44:9-40
+uses-library#android.test.runner
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:45:9-46:24
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:45:23-57
+activity#com.itheima.mobileguard.activities.SplashActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:label
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:49:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.itheima.mobileguard.activities.HomeActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:58:9-68:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:58:19-81
+intent-filter#aaa.bbb.ccc+android.intent.category.DEFAULT
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:59:13-67:29
+action#aaa.bbb.ccc
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:62:17-63:26
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:62:25-51
+category#android.intent.category.DEFAULT
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:65:17-66:28
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:65:27-73
+activity#com.itheima.mobileguard.activities.LostFindActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:69:19-85
+activity#com.itheima.mobileguard.activities.Setup1Activity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:71:9-72:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:71:19-83
+activity#com.itheima.mobileguard.activities.Setup2Activity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:73:9-74:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:73:19-83
+activity#com.itheima.mobileguard.activities.Setup3Activity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:75:9-76:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:75:19-83
+activity#com.itheima.mobileguard.activities.Setup4Activity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:77:9-78:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:77:19-83
+activity#com.itheima.mobileguard.activities.SelectContactActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:79:9-80:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:79:19-90
+activity#com.itheima.mobileguard.activities.SettingCenterActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:81:9-82:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:81:19-90
+activity#com.itheima.mobileguard.activities.CallSmsSafeActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:83:9-84:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:83:19-88
+activity#com.itheima.mobileguard.activities.AtoolsActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:85:9-86:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:85:19-83
+activity#com.itheima.mobileguard.activities.NumberAddressQueryActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:87:9-88:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:87:19-95
+activity#com.itheima.mobileguard.activities.AppManagerActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:89:9-90:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:89:19-87
+activity#com.itheima.mobileguard.activities.AppLockActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:93:9-94:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:93:19-84
+activity#com.itheima.mobileguard.activities.TaskManagerActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:98:9-99:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:98:19-88
+activity#com.itheima.mobileguard.activities.TaskManagerSettingActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:103:9-104:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:103:19-95
+activity#com.itheima.mobileguard.activities.AntivirusActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:108:9-109:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:108:19-86
+activity#com.itheima.mobileguard.activities.EnterPwdActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:114:9-115:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:114:19-85
+activity#com.itheima.mobileguard.activities.CleanCacheActivity
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:119:9-120:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:119:19-87
+service#com.itheima.mobileguard.services.KillProcessService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:123:9-124:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:123:18-84
+service#com.itheima.mobileguard.services.LocationService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:125:9-126:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:125:18-81
+service#com.itheima.mobileguard.services.CallSmsSafeService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:127:9-128:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:127:18-84
+service#com.itheima.mobileguard.services.ShowLocationService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:129:9-130:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:129:18-85
+service#com.itheima.mobileguard.services.KillProcesWidgetService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:131:9-132:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:131:18-89
+service#com.itheima.mobileguard.services.WatchDogService
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:134:9-135:19
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:134:18-81
+receiver#com.itheima.mobileguard.receivers.BootCompleteReceiver
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:137:9-141:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:137:19-88
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:138:13-140:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:139:17-79
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:139:25-76
+receiver#com.itheima.mobileguard.receivers.KillProcessAllReceiver
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:143:9-147:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:143:19-90
+intent-filter#com.itheima.mobileguard
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:144:13-146:29
+action#com.itheima.mobileguard
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:145:17-66
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:145:25-63
+receiver#com.itheima.mobileguard.receivers.SmsReceiver
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:148:9-152:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:148:19-79
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:149:13-151:29
+	android:priority
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:149:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:150:17-82
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:150:25-79
+receiver#com.itheima.mobileguard.receivers.MyDeviceAdmin
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:154:9-166:20
+	android:label
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:157:13-56
+	android:permission
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:158:13-70
+	android:description
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:156:13-74
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:155:13-75
+meta-data#android.app.device_admin
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:159:13-161:63
+	android:resource
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:161:17-60
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:160:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:163:13-165:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:164:17-82
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:164:25-79
+receiver#com.itheima.mobileguard.receivers.MyAppWidget
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:168:9-176:20
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:168:19-79
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:169:13-171:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:170:17-84
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:170:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:173:13-175:66
+	android:resource
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:175:17-63
+	android:name
+		ADDED from E:\APK\mobileguard\app\src\main\AndroidManifest.xml:174:17-58

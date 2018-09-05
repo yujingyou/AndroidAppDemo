@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#22000000</color>
+    <color name="textColorPrimaryDark">#ff000000</color>
+    <color name="touming">@android:color/transparent</color>
+    <declare-styleable name="SettingView"><attr format="string" name="title"/><attr format="string" name="desc"/></declare-styleable>
+    <string name="app_name">黑马小护卫</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sample_device_admin">黑马卫士管理器</string>
+    <string name="sample_device_admin_description">我是设备的超级管理员。开启我之后就可以清除数据，远程锁屏，必须开启，不开启扣500块钱</string>
+    <string name="serverurl">http://192.168.1.100:8080/info.json</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="textview_content_style">
+        <item name="android:textColor">#bb000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="textview_title_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:background">#5566ff00</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="widget_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/textColorPrimaryDark</item>
+    </style>
+</resources>
