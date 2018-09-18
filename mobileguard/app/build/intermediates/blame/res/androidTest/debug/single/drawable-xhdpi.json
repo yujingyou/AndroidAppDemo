@@ -2,5 +2,9 @@
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "E:\\APK\\mobileguard\\app\\src\\androidTest\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\androidTest\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

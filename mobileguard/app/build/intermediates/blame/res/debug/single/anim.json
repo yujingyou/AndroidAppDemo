@@ -12,6 +12,18 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\anim\\pre_in.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_out.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\next_out.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\anim\\cycle_7.xml"
     },
@@ -20,7 +32,19 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\anim\\pre_out.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_in.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\next_in.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_in.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\pre_in.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_out.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\anim\\pre_out.xml"
     }
 ]

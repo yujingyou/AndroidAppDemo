@@ -6,5 +6,13 @@
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\example_appwidget_info.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\xml\\example_appwidget_info.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\example_appwidget_info.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\xml\\example_appwidget_info.xml"
     }
 ]

@@ -52,10 +52,11 @@ public class MainActivity extends AppCompatActivity {
         //需要通过setPackage()方法指定包名
         intent.setPackage("com.service.aidl.aidlservice");
         bindService(intent, mConnection, Context.BIND_AUTO_CREATE);
-        Button button2 = (Button) findViewById(R.id.button);
+        Button button1 = (Button) findViewById(R.id.button);
+        Button button2 = (Button) findViewById(R.id.button2);
         mHellow = (TextView)findViewById(R.id.txt1);
         System.out.println("onCreate"+mAidl);
-        button2.setOnClickListener(new View.OnClickListener() {
+        button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Log.d("time","for begin");
@@ -72,6 +73,32 @@ public class MainActivity extends AppCompatActivity {
                // 20:17:28.310
                 Log.d("time","for end");
 
+            }
+        });
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Log.d("time","for begin");
+                for (int j = 0; j < 1000; j++) {
+
+
+                }
+                Log.d("time","for end");
+                Log.d("time","for begin");   //20:17:15.410
+                for (int j = 0; j < 1000; j++) {
+                    try {
+
+                        Person personList = mAidl.getPersonList();
+                        if(personList != null)
+                            mHellow.setText(personList.toString());
+                    } catch (RemoteException e) {
+                        e.printStackTrace();
+                    }
+
+                }
+
+                // 20:17:28.310
+                Log.d("time","for end");
 
             }
         });
@@ -84,8 +111,6 @@ public class MainActivity extends AppCompatActivity {
                 +"uid:"+android.os.Process.myUid());
         try {
             mAidl.addPerson(person);
-            List<Person> personList = mAidl.getPersonList();
-            mHellow.setText(personList.toString());
         } catch (RemoteException e) {
             e.printStackTrace();
         }

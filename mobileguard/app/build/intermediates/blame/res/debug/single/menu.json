@@ -2,5 +2,9 @@
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lost_find_menu.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\menu\\lost_find_menu.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lost_find_menu.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\menu\\lost_find_menu.xml"
     }
 ]

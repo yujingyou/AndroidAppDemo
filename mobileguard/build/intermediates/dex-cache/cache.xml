@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="E:\APK\mobileguard\app\libs\xUtils-2.6.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.1"
-        sha1="706db57636e6687c4d38d7b62a92d06b027e9952">
-        <dex dex="E:\APK\mobileguard\app\build\intermediates\pre-dexed\debug\xUtils-2.6.8_b12ea0748a6e870d0580f2fd76da679b37e525c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.1"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="E:\APK\mobileguard\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+        <dex dex="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,16 +17,25 @@
         optimize="true"
         revision="28.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="E:\APK\mobileguard\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+        <dex dex="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\APK\mobileguard\app\libs\RootTools.jar"
+        jar="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\libs\RootTools.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.1"
         sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
-        <dex dex="E:\APK\mobileguard\app\build\intermediates\pre-dexed\debug\RootTools_7eb0a520429395d829ce298f1402934c2fd35321.jar" />
+        <dex dex="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\build\intermediates\pre-dexed\debug\RootTools_c3ea966952cb14f8f7a768914e8c6e8542efa070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\libs\xUtils-2.6.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="706db57636e6687c4d38d7b62a92d06b027e9952">
+        <dex dex="F:\Programme\Android Demo\AndroidAppDemo\mobileguard\app\build\intermediates\pre-dexed\debug\xUtils-2.6.8_1ff2bc19225641816dd8c31b7eb363062b13b090.jar" />
     </item>
 
 </items>

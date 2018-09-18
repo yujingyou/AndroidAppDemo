@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_phonebook_bg"
+    android:layout_width="703px"
+    android:layout_height="88px"
+    >
+
+    <TextView
+        android:id="@+id/list_item_phonebook_name"
+        android:layout_width="660px"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="23px"
+        android:ellipsize="end"
+        android:gravity="left|center"
+        android:singleLine="true" />
+
+</RelativeLayout>

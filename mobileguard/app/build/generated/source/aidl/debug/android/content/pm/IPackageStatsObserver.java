@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\APK\\mobileguard\\app\\src\\main\\aidl\\android\\content\\pm\\IPackageStatsObserver.aidl
+ * Original file: F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\aidl\\android\\content\\pm\\IPackageStatsObserver.aidl
  */
 package android.content.pm;
 /**

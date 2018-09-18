@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.uicomponent.demo.uicomponentdemo.SrollListViewActivity">
+
+    <RelativeLayout
+        android:id="@+id/contacts_list_background"
+        android:layout_width="747px"
+        android:layout_height="404px"
+        android:layout_marginLeft="258px"
+        android:layout_marginTop="100px">
+
+        <ListView
+            android:id="@+id/contacts_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@null"
+            android:fadeScrollbars="false"
+            android:fastScrollAlwaysVisible="true"
+            android:fastScrollEnabled="true"
+            android:longClickable="true"
+            android:nextFocusDown="@+id/device_listview"
+            android:scrollbarStyle="outsideInset" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

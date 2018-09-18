@@ -1,27 +1,171 @@
 [
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
-    },
-    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antivirusa.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_antivirusa.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_lock_fragment.xml"
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blacknumber.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\dialog_add_blacknumber.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_showaddress.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\toast_showaddress.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe2.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe2.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_lock_fragment.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_query.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_address_query.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_pwd.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_set_pwd.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_clean_cache.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_lock_fragment.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_manager.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_app_manager.xml"
+    },
+    {
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
@@ -36,26 +180,6 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup2.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
-    },
-    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup1.xml"
     },
@@ -68,68 +192,80 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_contacts.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_pwd.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_set_pwd.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_setting_view.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\ui_setting_view.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock_fragment.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock_fragment.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_grid.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_home_grid.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
-    },
-    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\test.xml"
-    },
-    {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe2.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe2.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
     },
     {
-        "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_pwd.xml",
-        "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_set_pwd.xml"
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antivirusa.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_antivirusa.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock_fragment.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock_fragment.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_setting_view.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\ui_setting_view.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_clean_cache.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_showaddress.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\toast_showaddress.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
     },
     {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_query.xml",
@@ -140,6 +276,10 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_lock.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
     },
@@ -148,7 +288,19 @@
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\item_app_manager.xml"
     },
     {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_grid.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_home_grid.xml"
+    },
+    {
         "merged": "E:\\APK\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
         "source": "E:\\APK\\mobileguard\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\item_lock.xml"
+    },
+    {
+        "merged": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\Programme\\Android Demo\\AndroidAppDemo\\mobileguard\\app\\src\\main\\res\\layout\\activity_home.xml"
     }
 ]
